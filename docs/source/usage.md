@@ -9,14 +9,18 @@
 
 ## Creates recipes
 
-To create a recipe, you can use {py:func}`lumache.get_random_ingredients` funxtion:
+**To create a recipe, use {py:func}`lumache.get_random_ingredients` function:**
 
 ```{eval-rst}
-.. autofunction:: lumache.get_random_ingredients(kind=None)
+.. autosummary::
+   :recursive:
 
+   lumache
 ```
 
-Sometimes error will be raised {py:exc}`lumache.InvalidKindError` if kind is invalid:
+
 ```{eval-rst}
-.. autoexception:: lumache.InvalidKindError
+.. automodule:: lumache
+   :members:
+
 ```

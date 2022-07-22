@@ -35,8 +35,12 @@ extensions = [
     "sphinx.ext.duration",
     "sphinx.ext.autosectionlabel",
     "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.napoleon",
+    # "autoapi.extension"
 ]
 
+# autoapi_dirs = ["../../lumache"]
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 

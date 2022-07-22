@@ -6,7 +6,8 @@
 ```{include} ../../README.md
 :relative-images:
 ````
-For further infor check {doc}`usage`. 
+
+For further infor check {doc}`this usage <usage>`. 
 checkout this link for installation instruction {ref}`installation`.
 
 ```{warning}
