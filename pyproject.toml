@@ -13,5 +13,6 @@ doc = [
     "rst-to-myst==0.3.2",
     "myst-parser==0.18.0",
     "sphinx-autobuild==2021.3.14",
+    "furo",
     
 ]
